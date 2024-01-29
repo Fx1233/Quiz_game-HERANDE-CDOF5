@@ -1,2 +1,3 @@
 # Quiz_game-HERANDE-CDOF5
- Un Quiz game est un jeu-questionnaire interactif où les joueurs répondent à des questions pour tester leurs connaissances et compétences sur divers sujets, souvent dans le but de marquer des points ou de battre des adversaires. Il peut être joué individuellement ou en équipe, et offre un divertissement basé sur la réflexion et la compétition.
+ Ce Quiz game est un quizz sur le milieu du rugby. IL permet de jouer avec des questions en rapport avec le 6 nations, le top 14 ou encore la coupe du monde!
+
